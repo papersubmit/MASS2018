@@ -1,2 +1,2 @@
-# ICPP2018
+# MASS2018
 The source-codes for TailoredRE prototype
